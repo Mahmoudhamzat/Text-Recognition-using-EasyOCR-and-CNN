@@ -1,0 +1,1 @@
+# Text-Recognition-using-EasyOCR-and-CNN
