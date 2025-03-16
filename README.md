@@ -6,8 +6,8 @@ Requirements
 To install the necessary dependencies, run the following command:
 
 bash
-نسخ
-تحرير
+
+
 pip install easyocr opencv-python-headless matplotlib pillow ipywidgets pdf2image gradio torch torchvision torchaudio
 Libraries Used
 EasyOCR: Optical Character Recognition (OCR) to extract text from images.
